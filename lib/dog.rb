@@ -7,8 +7,8 @@ class Dog
     @name
   end
 
-  
-class bark
+
+class Bark
 def bark
   puts "woof"
  end
