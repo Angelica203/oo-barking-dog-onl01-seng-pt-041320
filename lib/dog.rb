@@ -15,7 +15,6 @@ def bark
 end
 
 
-  lassie = Dog.new
-  lassie.name = "lassie"
-
-   lassie.name
+lassie = Dog.new
+lassie.name = "lassie"
+lassie.name
